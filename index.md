@@ -1,1 +1,3 @@
-Hello World!
+https://www.hackerrank.com/silverbeard?hr_r=1
+
+I should probably write an article or something here, right?  Coming soon...
